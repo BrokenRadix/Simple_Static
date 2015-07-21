@@ -1,4 +1,12 @@
 #!/usr/bin/python
+'''
+Simple Static (by BrokenRadix)
+A script to help make generating static sites super simple.
+
+https://github.com/BrokenRadix/Simple_Static
+
+Usage: $ python simple_static.py -v
+'''
 
 import argparse
 import logging
